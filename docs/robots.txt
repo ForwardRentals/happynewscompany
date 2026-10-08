@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://happynewscompany.com/sitemap.xml
+Sitemap: https://happynewscompany.com/news-sitemap.xml
