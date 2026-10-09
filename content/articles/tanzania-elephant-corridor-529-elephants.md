@@ -5,6 +5,8 @@ date: 2026-10-03
 category: Wildlife
 company: Tanzania
 source: Good Good Good|https://www.goodgoodgood.co/articles/trail-cameras-wildlife-corridor-tanzania
+image: /img/news/tanzania-elephant-corridor-529-elephants.jpg
+image_credit: Rasheedhrasheed / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:African_savanna_elephants_at_Saadani_National_Park_Tanzania.jpg
 ---
 Proof that a corridor works: trail cameras have recorded 529 elephants moving through Tanzania's first protected wildlife corridor, according to Good Good Good.
 

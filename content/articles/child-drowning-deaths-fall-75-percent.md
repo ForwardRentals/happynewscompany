@@ -4,6 +4,8 @@ date: 2026-10-01
 category: Health
 company: Our World in Data
 source: Our World in Data|https://ourworldindata.org/data-insights/drowning-is-a-common-cause-of-death-among-children-the-world-has-made-progress-but-more-can-be-done
+image: /img/news/child-drowning-deaths-fall-75-percent.jpg
+image_credit: Emily Walker / CC BY-SA 2.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Swimming_Lesson.jpg
 ---
 One of the quietest public health wins of the past four decades: far fewer children are drowning.
 

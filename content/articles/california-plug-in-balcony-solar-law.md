@@ -5,6 +5,8 @@ date: 2026-10-01
 category: Planet
 company: California
 source: Los Angeles Times|https://www.latimes.com/environment/story/2026-09-30/want-solar-but-dont-own-roof-california-just-legalized-plug-in-panels-no-permission-required
+image: /img/news/california-plug-in-balcony-solar-law.jpg
+image_credit: Rudy23 / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Balkonkraftwerk.jpg
 ---
 Gov. Gavin Newsom has signed the Plug and Play Solar Act, making California one of the largest places in the U.S. to allow small plug-in solar panels without permission from a utility, the Los Angeles Times reports.
 

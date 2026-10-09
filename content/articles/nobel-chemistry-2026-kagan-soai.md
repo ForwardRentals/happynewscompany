@@ -5,6 +5,8 @@ date: 2026-10-07
 category: Science
 company: Nobel Prize
 source: Pulse|https://www.pulse.co.ke/story/nobel-prize-in-chemistry-2026-the-molecular-breakthrough-that-earned-henri-kagan-and-kenso-soai-prestigious-award-2026100719524387977
+image: /img/news/nobel-chemistry-2026-kagan-soai.jpg
+image_credit: Osama Shukir Muhammed Amin FRCP(Glasg) / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Nobel_prize_medal_for_medicine,_Sweden,_1945,_to_Sir_Alexander_Fleming_(1881-1955)_who_discovered_Penicillin._On_display_at_the_National_Museum_of_Scotland.jpg
 ---
 The 2026 Nobel Prize in Chemistry has been awarded jointly to French chemist Henri B. Kagan and Japanese chemist Kenso Soai "for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis."
 

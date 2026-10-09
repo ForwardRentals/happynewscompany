@@ -4,6 +4,8 @@ date: 2026-10-02
 category: Business for Good
 company: Community Coffee
 source: Rolling Stone|https://www.rollingstone.com/product-recommendations/lifestyle/dolly-parton-cup-of-ambition-coffee-brand-photos-buy-online-1235633704/
+image: /img/news/dolly-parton-imagination-library-300-million-books.jpg
+image_credit: John Mathew Smith & www.celebrity-photos.com / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Dolly_Parton_(BBW).jpg
 ---
 Dolly Parton's Imagination Library, which mails free books to children from birth to age five, has now delivered more than 300 million books since it launched in 1995, according to [Good Good Good](https://www.goodgoodgood.co/articles/dolly-parton-9-to-5-day-how-celebrate).
 

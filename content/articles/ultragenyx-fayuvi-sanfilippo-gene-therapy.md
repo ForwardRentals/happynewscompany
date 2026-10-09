@@ -5,6 +5,8 @@ date: 2026-09-18
 category: Health
 company: Ultragenyx
 source: STAT|https://www.statnews.com/2026/09/17/sanfilippo-syndrome-treatment-ultragenyx-approval/
+image: /img/news/ultragenyx-fayuvi-sanfilippo-gene-therapy.jpg
+image_credit: Goldmund100 / CC BY-SA 3.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Laboratory_desk.jpg
 ---
 The FDA has approved Fayuvi, a gene therapy from Ultragenyx, as the first drug specifically approved to treat Sanfilippo syndrome type A, STAT reports.
 

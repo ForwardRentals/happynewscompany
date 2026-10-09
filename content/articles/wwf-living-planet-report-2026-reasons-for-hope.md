@@ -5,6 +5,8 @@ date: 2026-10-08
 category: Wildlife
 company: WWF
 source: Discover Wildlife|https://www.discoverwildlife.com/environment/living-planet-report-2026
+image: /img/news/wwf-living-planet-report-2026-reasons-for-hope.jpg
+image_credit: Steve Evans from Citizen of the World / CC BY 2.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Great_Barrier_Reef_011_(5441015088).jpg
 ---
 The World Wildlife Fund's 2026 Living Planet Report, published this week, carries a message the series has rarely delivered: conservation is working where it is tried, and the world has reached some positive tipping points.
 

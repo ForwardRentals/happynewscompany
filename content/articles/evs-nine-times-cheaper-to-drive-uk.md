@@ -4,6 +4,8 @@ date: 2026-10-02
 category: Planet
 company: Carbon Brief
 source: Carbon Brief|https://www.carbonbrief.org/analysis-evs-are-now-nine-times-cheaper-than-petrol-or-diesel-to-drive-in-the-uk
+image: /img/news/evs-nine-times-cheaper-to-drive-uk.jpg
+image_credit: Malc McDonald / CC BY-SA 2.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Electric_vehicle_charging_points,_Dagenham_-_geograph.org.uk_-_5952722.jpg
 ---
 Charging an electric car at home overnight in the UK now costs a fraction of filling a tank, according to a new Carbon Brief analysis.
 

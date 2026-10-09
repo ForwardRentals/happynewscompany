@@ -5,6 +5,8 @@ date: 2026-09-29
 category: Community
 company: Broadway Cares
 source: Playbill|https://playbill.com/article/despite-stormy-weather-broadway-flea-market-raised-nearly-1-5-million
+image: /img/news/broadway-flea-market-raises-1-5-million.jpg
+image_credit: Jim.henderson / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Shubert_Alley_2024_jeh.jpg
 ---
 Rain did not stop Broadway fans. The 40th Broadway Flea Market & Grand Auction, held September 27 at Manhattan's Hammerstein Ballroom, raised $1,487,927 for Broadway Cares/Equity Fights AIDS, Playbill reports.
 

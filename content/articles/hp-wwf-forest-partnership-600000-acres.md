@@ -5,6 +5,8 @@ date: 2026-10-06
 category: Business for Good
 company: HP
 source: World Wildlife Fund|https://www.worldwildlife.org/news/sustainability-works/wwf-and-hp-inc-expand-conservation-commitment-to-viet-nam-and-mexico/
+image: /img/news/hp-wwf-forest-partnership-600000-acres.jpg
+image_credit: Kay Du / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Gunung_Nuang_summit_forest_canopy_aerial_view.webp
 ---
 HP Inc. and the World Wildlife Fund have worked together on forest conservation across more than 600,000 acres since 2020, according to WWF, and the partnership is now expanding to new landscapes in Viet Nam and Mexico.
 

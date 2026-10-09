@@ -4,6 +4,8 @@ date: 2026-10-03
 category: Wildlife
 company: Taï National Park
 source: Good Good Good|https://www.goodgoodgood.co/articles/ghana-cuckooshrike-bird-west-africa-good-news
+image: /img/news/ghana-cuckooshrike-rediscovered.jpg
+image_credit: Nicolas Huet / Jean Gabriel Prêtre / Public domain via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Lobotos_lobatus_male_1838.jpg
 ---
 A bird that had not been seen for 13 years has turned up again. Researchers spotted a Ghana cuckooshrike in June in Taï National Park in Côte d'Ivoire, Good Good Good reports.
 

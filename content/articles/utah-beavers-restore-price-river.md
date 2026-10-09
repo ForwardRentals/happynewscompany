@@ -4,6 +4,8 @@ date: 2026-09-30
 category: Planet
 company: Price River
 source: The Cool Down|https://www.thecooldown.com/green-tech/beaver-restoration-efforts-utah-town/
+image: /img/news/utah-beavers-restore-price-river.jpg
+image_credit: Charles J. Sharp / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:North_American_beaver_(Castor_canadensis)_swimming_Whistler.jpg
 ---
 Sometimes the best engineers have flat tails. Beavers reintroduced to Utah's Price River are building dams that are helping the river recover, The Cool Down reports.
 

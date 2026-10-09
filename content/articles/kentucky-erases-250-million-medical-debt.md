@@ -5,6 +5,8 @@ date: 2026-09-16
 category: Community
 company: Undue Medical Debt
 source: Louisville Public Media|https://www.lpm.org/news/2026-09-15/kentucky-gov-beshear-announces-state-investment-to-erase-250-million-in-medical-debt
+image: /img/news/kentucky-erases-250-million-medical-debt.jpg
+image_credit: TheLexingtonTimes / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Kentucky_State_Capitol,_January_2024.jpg
 ---
 More than 130,000 Kentuckians will eventually have their medical debt wiped out under a plan announced by Gov. Andy Beshear, Louisville Public Media reports.
 

@@ -4,6 +4,8 @@ date: 2026-09-27
 category: Health
 company: Alzheimer's Disease International
 source: RNZ|https://www.rnz.co.nz/news/health/1483456/alzheimer-s-disease-starting-to-be-considered-a-treatable-condition-study
+image: /img/news/world-alzheimer-report-2026-treatable.jpg
+image_credit: pasja1000 (Pixabay) / CC0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Senior-3336451_1920.jpg
 ---
 For decades an Alzheimer's diagnosis offered little hope. The World Alzheimer Report 2026 from Alzheimer's Disease International says that is starting to change, RNZ reports.
 

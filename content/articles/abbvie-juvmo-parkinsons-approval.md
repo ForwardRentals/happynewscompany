@@ -5,6 +5,8 @@ date: 2026-09-29
 category: Health
 company: AbbVie
 source: AbbVie newsroom|https://news.abbvie.com/2026-09-28-U-S-FDA-Approves-AbbVies-JUVMO-TM-tavapadon-for-Parkinsons-Disease
+image: /img/news/abbvie-juvmo-parkinsons-approval.jpg
+image_credit: Diane A. Reid (Photographer) / Public domain via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Pipetting.jpg
 ---
 People living with Parkinson's disease have a new treatment option. The U.S. Food and Drug Administration has approved AbbVie's JUVMO (tavapadon), a once-daily tablet that AbbVie says is the first and only selective D1/D5 receptor agonist approved for adults with Parkinson's.
 
