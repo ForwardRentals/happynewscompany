@@ -5,6 +5,8 @@ category: Press Release
 company: Sea to Sky Trails
 dateline: SQUAMISH, British Columbia
 website: https://seatoskytrails.com
+image: /img/news/sea-to-sky-trails-free-hiking-guides.jpg
+image_credit: Madhumanti Mandal / CC BY-SA 4.0 via Wikimedia Commons|https://commons.wikimedia.org/wiki/File:Garibaldi_Lake_from_Panorama_Ridge.jpg
 ---
 Sea to Sky Trails today highlighted its growing library of free field guides to the lakes, trails and waterfalls of British Columbia's Sea to Sky corridor, between Howe Sound, Squamish, Whistler and Pemberton.
 

@@ -7,6 +7,8 @@ dateline: SQUAMISH, British Columbia
 contact_name: Mamquam Sauna
 contact_email: mamquamsauna@gmail.com
 website: https://mamquamsauna.com
+image: /img/news/the-secret-sauna-returns-mamquam-sauna.jpg
+image_credit: Mamquam Sauna|https://mamquamsauna.com
 ---
 For years, Squamish had a local legend: a hand-crafted sauna tucked along the banks of the Mamquam River. There were no signs and no bookings. Those who knew where to find it came for the steam, the silence and the sound of the river.
 

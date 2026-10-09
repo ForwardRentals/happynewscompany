@@ -7,6 +7,8 @@ dateline: SQUAMISH, British Columbia
 contact_name: Squamish Water Taxi
 contact_email: squamishwatertaxi@gmail.com
 website: https://strandedonthe99.com
+image: /img/news/squamish-water-taxi-highway-99-closure-shuttle.jpg
+image_credit: Squamish Water Taxi|https://squamishwatertaxi.com
 ---
 Squamish Water Taxi is asking residents and commuters to register their interest in an on-call water shuttle that would run when Highway 99 closes.
 
